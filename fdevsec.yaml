@@ -4,10 +4,10 @@ id:
 
 # If below settings are not configured, scans will be performed for all supported scanners.
 #scanners:
-#  - sast
-#  - sca
-#  - secret
-#  - iac
+- sast
+- sca
+- secret
+- iac
 #  - container
 #  - dast
 
